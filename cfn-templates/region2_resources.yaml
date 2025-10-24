@@ -1,6 +1,6 @@
 AWSTemplateFormatVersion: 2010-09-09
 Description: >-
-  AWS Cloud WAN Inspection Architecture - Region 2 resources
+  AWS Cloud WAN Inspection Architecture - Region 2 resources (uksb-1d2ot8tqdz)(tag: region2-resources)
 Transform: 'AWS::LanguageExtensions'
 
 Metadata:

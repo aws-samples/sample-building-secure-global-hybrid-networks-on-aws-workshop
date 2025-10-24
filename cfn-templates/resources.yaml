@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: Template to deploy all the resources for Building Secure Global Hybrid Networks on AWS workshop (https://catalog.us-east-1.prod.workshops.aws/workshops/cdef9a06-8156-4669-9e6a-6eb83e4a5adc)
+Description: "Template to deploy all the resources for Building Secure Global Hybrid Networks on AWS workshop (https://catalog.us-east-1.prod.workshops.aws/workshops/cdef9a06-8156-4669-9e6a-6eb83e4a5adc) (uksb-1d2ot8tqdz)(tag: core-network)"
 Transform: AWS::Serverless-2016-10-31
 
 Resources:
